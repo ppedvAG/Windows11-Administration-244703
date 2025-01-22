@@ -16,3 +16,11 @@ Agenda:
     - IPv6
         - SLAAC
     - Troubleshooting
+    - DNS
+- Active Directory
+    - Organisationseinheiten
+    - User
+    - Gruppenrichtlinien
+        - UEV
+        - Netzlaufwerk
+        
