@@ -23,4 +23,9 @@ Agenda:
     - Gruppenrichtlinien
         - UEV
         - Netzlaufwerk
-        
+        - Bitlocker
+        - LocalAdministratorPasswordSolution
+- perfom
+- BlueScreenViewer
+- WSL2
+- Docker
